@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;}
+.main {
+    text-align: center;}
+h1 {
+    color: pink;}
+    .fwd {
+        color: #999999;
+        font-size: 50px;
+        font-weight: bold;
+    }
+    #fwdjr{
+        font-style: bold;
+        font-size: 20px;
+    }
